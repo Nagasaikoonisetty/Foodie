@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Foodie</string>
+    <string name="already_user">Already have Account? Login here.</string>
+    <string name="signup">or \n Signup here</string>
+</resources>

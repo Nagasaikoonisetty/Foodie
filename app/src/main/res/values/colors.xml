@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <!--<color name="colorPrimary">#28DEC5</color>
+    <color name="colorPrimaryDark">#28DEC5</color>
+    &lt;!&ndash;  <color name="colorAccent">#D81B60</color>&ndash;&gt;
+    <color name="colorAccent">#28DEC5</color>-->
+
+
+    <!--<color name="colorPrimary">#dd5e89</color>
+    <color name="colorPrimaryDark">#dd5e89</color>
+    &lt;!&ndash;  <color name="colorAccent">#D81B60</color>&ndash;&gt;
+    <color name="colorAccent">#dd5e89</color>-->
+
+    <color name="txt_background">#90504C4C</color>
+    <color name="colorPrimary">#006490</color>
+    <color name="colorPrimaryDark">#006490</color>
+    <!--  <color name="colorAccent">#D81B60</color>-->
+    <color name="colorAccent">#006490</color>
+
+    <color name="colorPrimary2">#E31836</color>
+
+
+    <color name="orange">#FA6304</color>
+    <color name="colorPrimaryDark_orange">#E95C04</color>
+
+    <!--    <color name="colorPrimary">#093637</color>
+        <color name="colorPrimaryDark">#093637</color>
+        &lt;!&ndash;  <color name="colorAccent">#D81B60</color>&ndash;&gt;
+        <color name="colorAccent">#093637</color>-->
+
+    <color name="textcolor">#2c3e50</color>
+    <color name="mtrl_textinput_default_box_stroke_color">#fff</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="light_white">#61F7F5F5</color>
+
+    <color name="placeholder_bg">#dddddd</color>
+    <color name="blue">#2196F3</color>
+    <color name="black_light">#41000000</color>
+    <color name="white_light">#C4FFFFFF</color>
+
+    <color name="background_color">#009688</color>
+    <!--  <color name="white">#FFFFFF</color>
+      <color name="black">#000000</color>-->
+    <color name="white_greyish">#EEEEEE</color>
+    <color name="button_selectorcolor">#9E9E9E</color>
+    <color name="color_white">#ffffff</color>
+    <!--  <color name="blue">#00B0FF</color>-->
+    <color name="green">#00E676</color>
+    <color name="yellow">#FFEA00</color>
+    <color name="lightblack">#E8303131</color>
+    <color name="dilcolor">#EBE8E2</color>
+    <color name="red">#ff0000</color>
+
+    <color name="textbg_end">#FFFFFF</color>
+    <color name="textbg_start">#1f4037</color>
+    <color name="homebgcolor">#f6d6e2</color>
+    <color name="blueicon">#34495E</color>
+
+    <color name="view_background">#e8ecfa</color>
+    <color name="btn_bg">#277bec</color>
+    <color name="txt_font">#4e5572</color>
+    <color name="action_bar">#1f2649</color>
+
+
+</resources>
